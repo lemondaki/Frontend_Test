@@ -1,0 +1,32 @@
+@media (max-width:46.1875em) {
+    html {
+        font-size: 56.25%;
+    }
+
+    .hide-on-mobile {
+        display: none;
+    }
+
+    .wrapper-content {
+        padding: 0 10px;
+    }
+
+    #main-content {
+        width: 100%;
+        left: 0;
+    }
+
+    .main-logo img {
+        max-width: 70%;
+    }
+
+    .icon-img {
+        max-width: 10rem;
+        max-height: 10rem;
+    }
+
+    .copyright {
+        left: 0;
+    }
+
+}
